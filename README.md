@@ -1,16 +1,20 @@
-### Hi there 👋
+15yo hobbyist software developer from Slovenia.
+Favorite language: C
+Use: C (sometimes C++)
 
-<!--
-**Tetrapak0/Tetrapak0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Main PC spec:
+Acer Predator Helios 300 (PH317-53)
+- CPU: Intel Core i7 9750h
+- RAM: 32 GB RAM 2333 MT/s
+- GPU: Nvidia Geforce RTX 2060 mobile
+- Display: 2 * 144Hz, 1920x1080 (17" + 24")
+- OS: Windows 10 Professional
+Secondary PC spec:
+Lenovo ThinkPad T440
+- CPU: Intel Core i7 4600U
+- RAM: 8 GB 1600 MT/s
+- GPU: Intel Haswell ULT
+- Display: 60Hz 1600x900
+- OS: Arch Linux
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Phone: Samsung Galaxy Z Fold4 5G
