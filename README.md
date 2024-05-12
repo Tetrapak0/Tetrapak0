@@ -1,6 +1,7 @@
-15yo hobbyist software developer from Slovenia.
-Favorite language: C
-Use: C (sometimes C++)
+$ whoami <br>
+15yo hobbyist software developer from Slovenia. <br>
+Favorite language: C <br>
+Use: C (sometimes C++) <br>
 
 Main PC spec: <br>
 Acer Predator Helios 300 (PH317-53)
