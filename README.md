@@ -8,7 +8,8 @@ Acer Predator Helios 300 (PH317-53)
 - RAM: 32 GB RAM 2333 MT/s
 - GPU: Nvidia Geforce RTX 2060 mobile
 - Display: 2 * 144Hz, 1920x1080 (17" + 24")
-- OS: Windows 10 Professional <br>
+- OS: Windows 10 Professional
+
 Secondary PC spec: <br>
 Lenovo ThinkPad T440
 - CPU: Intel Core i7 4600U
