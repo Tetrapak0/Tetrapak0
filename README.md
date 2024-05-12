@@ -1,7 +1,8 @@
-$ whoami <br>
+~ $ cat README.md
 15yo hobbyist software developer from Slovenia.<br>
 Favorite language: C or C++ with the C standard library<br>
 Use: C (sometimes C++)<br>
+Editor: Neovim
 
 Main PC spec:<br>
 Acer Predator Helios 300 (PH317-53)
