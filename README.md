@@ -2,14 +2,14 @@
 Favorite language: C
 Use: C (sometimes C++)
 
-Main PC spec:
+Main PC spec: <br>
 Acer Predator Helios 300 (PH317-53)
 - CPU: Intel Core i7 9750h
 - RAM: 32 GB RAM 2333 MT/s
 - GPU: Nvidia Geforce RTX 2060 mobile
 - Display: 2 * 144Hz, 1920x1080 (17" + 24")
-- OS: Windows 10 Professional
-Secondary PC spec:
+- OS: Windows 10 Professional <br>
+Secondary PC spec: <br>
 Lenovo ThinkPad T440
 - CPU: Intel Core i7 4600U
 - RAM: 8 GB 1600 MT/s
