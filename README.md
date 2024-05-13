@@ -7,7 +7,7 @@ Editor: Neovim
 Main PC spec:<br>
 Acer Predator Helios 300 (PH317-53)
 - CPU: Intel Core i7 9750h
-- RAM: 32 GB RAM 2333 MT/s
+- RAM: 32 GB RAM 2666 MT/s
 - GPU: Nvidia Geforce RTX 2060 mobile
 - Display: 2 * 144Hz, 1920x1080 (17" + 24")
 - OS: Windows 10 Professional
