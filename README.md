@@ -1,4 +1,4 @@
-~ $ cat README.md<br>
+`~ $ cat README.md`<br>
 15yo hobbyist software developer from Slovenia.<br>
 Favorite language: C or C++ with the C standard library<br>
 Use: C (sometimes C++)<br>
