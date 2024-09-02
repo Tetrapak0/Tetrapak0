@@ -2,7 +2,7 @@
 15yo hobbyist software developer from Slovenia.<br>
 Favorite language: C or C++ with the C standard library<br>
 Use: C (sometimes C++)<br>
-Editor: Neovim ([Configuration](https://github.com/Tetrapak0/init.lua))
+Editor: Visual Studio Code (with Vim plugin)
 
 Main PC spec:<br>
 Acer Predator Helios 300 (PH317-53)
